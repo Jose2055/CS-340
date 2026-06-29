@@ -1,1 +1,6 @@
 # CS-340
+I try to keep my code simple and organized so it is easy to understand. I use comments, clear variable names, and separate different parts of the program into different files. For this project I made a CRUD Python module that handled all of the database work. This made it easy to connect my dashboard to MongoDB without rewriting the same code. In the future I can use this same CRUD module in other projects that need to read or update data in a MongoDB database.
+
+I solve problems by breaking them into smaller pieces. For this project I first made sure the database worked. Then I built the CRUD module, and after that I created the dashboard one part at a time. I tested each feature before moving on to the next one. This project was different from some of my other assignments because I had to connect a database, Python code, and a dashboard together. In the future I will continue to build projects one step at a time and test each part as I go.
+
+Computer scientists create programs that help people solve problems and work more efficiently. In this project I created a dashboard that lets Grazioso Salvare search and view animal data more quickly. Instead of looking through thousands of records by hand users can view the data table, chart, and map to find the dogs they need. This saves time and helps the company make better decisions.
